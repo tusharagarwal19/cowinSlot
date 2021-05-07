@@ -1,4 +1,4 @@
-// Refer to ReadMe PAge, on how to run the script - https://github.com/tusharagarwal19/cowinSlot/blob/main/README.md
+// Refer to ReadMe PAge, on how to run the script - https://github.com/tusharagarwal19/cowinSlot/README.md
 
 var pincodes = ["122001"];
 var dateArr = ["08-05-2021","09-05-2021","10-05-2021","11-05-2021","12-05-2021","13-05-2021","14-05-2021","15-05-2021","16-05-2021","17-05-2021","18-05-2021","19-05-2021","20-05-2021","21-05-2021","22-05-2021","23-05-2021","24-05-2021","25-05-2021","26-05-2021","27-05-2021","28-05-2021","29-05-2021","30-05-2021"];
